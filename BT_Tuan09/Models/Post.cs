@@ -35,7 +35,7 @@ namespace BT_Tuan09.Models
         {
         }
 
-        public static void createPost()
+        public static bool createPost()
         {
 
         }

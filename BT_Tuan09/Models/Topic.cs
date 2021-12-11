@@ -26,7 +26,7 @@ namespace BT_Tuan09.Models
         {
         }
 
-        public static void createTopic()
+        public static bool createTopic()
         {
 
         }
