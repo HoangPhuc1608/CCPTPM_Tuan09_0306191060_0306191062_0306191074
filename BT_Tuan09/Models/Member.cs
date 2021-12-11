@@ -29,11 +29,11 @@ namespace BT_Tuan09.Models
 		{
 
 		}
-		public bool register()
+		public Member register()
 		{
 
 		}
-		public bool updateAccount()
+		public bool updateAccount(Member mem)
 		{
 
 		}
