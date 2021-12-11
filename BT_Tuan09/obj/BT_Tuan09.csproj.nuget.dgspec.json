@@ -1,37 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj": {}
+    "D:\\study\\CCPT PM\\Bai09\\BT_Tuan09\\BT_Tuan09\\BT_Tuan09.csproj": {}
   },
   "projects": {
-    "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj": {
+    "D:\\study\\CCPT PM\\Bai09\\BT_Tuan09\\BT_Tuan09\\BT_Tuan09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
+        "projectUniqueName": "D:\\study\\CCPT PM\\Bai09\\BT_Tuan09\\BT_Tuan09\\BT_Tuan09.csproj",
         "projectName": "BT_Tuan09",
-        "projectPath": "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\obj\\",
+        "projectPath": "D:\\study\\CCPT PM\\Bai09\\BT_Tuan09\\BT_Tuan09\\BT_Tuan09.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\study\\CCPT PM\\Bai09\\BT_Tuan09\\BT_Tuan09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
-        "projectName": "BT_Tuan09",
-        "projectPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
-        "packagesPath": "C:\\Users\\BAO PHUC- PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\BAO PHUC- PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 60f4bb6ba71fbbc8fdb0c92d26d6b3451d83ae8e
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
