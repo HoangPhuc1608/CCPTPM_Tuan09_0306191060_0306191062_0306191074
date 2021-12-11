@@ -29,7 +29,7 @@ namespace BT_Tuan09.Models
 		{
 
 		}
-		public bool updateComment(string cmt)
+		public bool updateComment(Comment cmt)
 		{
 
 		}
