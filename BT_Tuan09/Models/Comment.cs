@@ -23,12 +23,12 @@ namespace BT_Tuan09.Models
 
         public Comment(int _comentID, int _memberID, string _content, DateTime _commentDate, int _postID, int _status)
 		{
-			_comentID = commentID;
-			_memberID = memberID;
-			_content = content;
-			_commentDate = commentDate;
-			_postID = postID;
-			_status = status;
+			_comentID = CommentID;
+			_memberID = MemberID;
+			_content = Content;
+			_commentDate = CommentDate;
+			_postID = PostID;
+			_status = Status;
 
 		}
 

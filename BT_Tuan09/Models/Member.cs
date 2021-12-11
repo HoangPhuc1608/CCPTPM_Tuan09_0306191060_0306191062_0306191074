@@ -23,6 +23,16 @@ namespace BT_Tuan09.Models
         public string Gender { get => gender; set => gender = value; }
         public int TypeAccount { get => typeAccount; set => typeAccount = value; }
 
+        public Member(int _id, string _username, string _pass, DateTime _dateofbirth, string _email, string _gender)
+		{
+			_id = Id;
+			_username = UserName;
+			_pass = PassWord;
+			_dateofbirth = DateOfBirth;
+			_email = Email;
+			_gender = Gender;
+		}
+
 		public bool login(string username, string pass)
 		{
 
