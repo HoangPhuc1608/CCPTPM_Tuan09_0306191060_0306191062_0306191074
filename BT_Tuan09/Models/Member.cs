@@ -15,14 +15,22 @@ namespace BT_Tuan09.Models
 		private string gender;
 		private int typeAccount;
 
-		public Member(int _id, string _username, string _pass, DateTime _dateofbirth, string _email, string _gender)
+        public int Id { get => id; set => id = value; }
+        public string UserName { get => userName; set => userName = value; }
+        public string PassWord { get => passWord; set => passWord = value; }
+        public DateTime DateOfBirth { get => dateOfBirth; set => dateOfBirth = value; }
+        public string Email { get => email; set => email = value; }
+        public string Gender { get => gender; set => gender = value; }
+        public int TypeAccount { get => typeAccount; set => typeAccount = value; }
+
+        public Member(int _id, string _username, string _pass, DateTime _dateofbirth, string _email, string _gender)
 		{
-			_id = id;
-			_username = userName;
-			_pass = passWord;
-			_dateofbirth = dateOfBirth;
-			_email = email;
-			_gender = gender;
+			_id = Id;
+			_username = UserName;
+			_pass = PassWord;
+			_dateofbirth = DateOfBirth;
+			_email = Email;
+			_gender = Gender;
 		}
 
 		public bool login(string username, string pass)

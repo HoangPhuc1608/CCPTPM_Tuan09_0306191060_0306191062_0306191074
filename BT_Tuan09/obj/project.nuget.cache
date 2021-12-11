@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "5QXACTNfipX5wto4NEvn8F1ue7Lyb1p3AE8aQ6dVdmrkit0d4wKIuXo90Julzl7FF3cfl7JHBF0lOlqssiJ+ow==",
-  "success": true,
-  "projectFilePath": "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
-=======
   "dgSpecHash": "JdSLnkcN1Y7+Y5ZsTIWB/x+ySAh/50+wvUaXtC/liKHI3OkECxJ6B7bhIq2Cc8Xa5RoulkH7hn4U6IKPH3MmgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
->>>>>>> 60f4bb6ba71fbbc8fdb0c92d26d6b3451d83ae8e
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
