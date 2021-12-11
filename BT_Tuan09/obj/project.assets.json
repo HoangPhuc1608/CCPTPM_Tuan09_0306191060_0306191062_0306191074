@@ -8,11 +8,16 @@
     "net5.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\BAO PHUC- PC\\.nuget\\packages\\": {}
+>>>>>>> 60f4bb6ba71fbbc8fdb0c92d26d6b3451d83ae8e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
       "projectName": "BT_Tuan09",
       "projectPath": "D:\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
+      "projectName": "BT_Tuan09",
+      "projectPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\BT_Tuan09.csproj",
+      "packagesPath": "C:\\Users\\BAO PHUC- PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\CCPTPM_Tuan09_0306191060_0306191062_0306191074\\BT_Tuan09\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BAO PHUC- PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 60f4bb6ba71fbbc8fdb0c92d26d6b3451d83ae8e
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
